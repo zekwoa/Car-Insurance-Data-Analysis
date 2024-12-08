@@ -1,5 +1,8 @@
 # Car Insurance Data Analysis  
 
+Portfilio Dashboard:  
+![CarInsurance Data Analysis](Dashboard.jpeg)
+
 ## Overview  
 This project focuses on analyzing car insurance data to uncover trends and actionable insights. By combining data cleaning, exploratory data analysis (EDA), and advanced visualization techniques, the project offers valuable metrics that can guide decision-making in the insurance industry.  
 
@@ -19,5 +22,3 @@ This project focuses on analyzing car insurance data to uncover trends and actio
 ## Conclusion  
 This project demonstrates how combining Python and Power BI can transform raw data into actionable insights. It highlights the potential of data analytics in addressing real-world challenges in industries 
 
-Portfilio Dashboard:  
-![CarInsurance Data Analysis](Dashboard.jpeg)
