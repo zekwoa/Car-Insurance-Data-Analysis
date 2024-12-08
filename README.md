@@ -19,4 +19,5 @@ This project focuses on analyzing car insurance data to uncover trends and actio
 ## Conclusion  
 This project demonstrates how combining Python and Power BI can transform raw data into actionable insights. It highlights the potential of data analytics in addressing real-world challenges in industries 
 
-Portfilio Dashboard: ![CarInsurance Data Analysis](Dashboard.jpeg)
+Portfilio Dashboard:  
+![CarInsurance Data Analysis](Dashboard.jpeg)
